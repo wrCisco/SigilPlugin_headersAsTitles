@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+  <name>headersAsTitles</name>
+  <type>edit</type>
+  <author>Francesco Martini</author>
+  <description>Add/modify the title tag of xhtml selected files using
+  for each file the first most elevated h* tag in the code</description>
+  <engine>python3.4</engine>
+  <version>0.1.0</version>
+  <autostart>true</autostart>
+  <autoclose>false</autoclose>
+  <oslist>osx,unx,win</oslist>
+</plugin>
